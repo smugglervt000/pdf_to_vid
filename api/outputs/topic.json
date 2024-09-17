@@ -1,0 +1,22 @@
+{
+    "Student Status": [
+        "Definition of full-time student",
+        "Definition of part-time student",
+        "Importance of attendance for both full-time and part-time students"
+    ],
+    "Programme of Study": [
+        "Description of PhD program",
+        "Department of Computer Science",
+        "Qualifications needed for research degree"
+    ],
+    "Expected Date of Completion": [
+        "Length of PhD program",
+        "Importance of expected date of completion",
+        "Factors that may affect expected date of completion"
+    ],
+    "Address Details": [
+        "Importance of accurate address information",
+        "Verification of address by UCL",
+        "Responsibility of student to provide correct address information"
+    ]
+}
