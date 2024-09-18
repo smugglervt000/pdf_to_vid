@@ -1,0 +1,57 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+api/logs
+# api/outputs
+api/.ruff_cache
+api/__pycache__/
+
+combined_output.wav
+speech_chunk_0.wav
+speech_chunk_1.wav
+speech_chunk_2.wav
+
+api/cache/
+
+# new images
+new_image*
+*.wav
+*.srt
+*.mp4
+
+*.png
+pyproject.toml
+*.txt
+api/outputs/selected.json

@@ -1,0 +1,49 @@
+{
+    "name": "liftoff",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    },
+    "dependencies": {
+      "@ffmpeg/core": "^0.11.0",
+      "@ffmpeg/ffmpeg": "^0.11.6",
+      "@formiz/core": "^2.2.1",
+      "@headlessui/react": "^1.7.14",
+      "@nextui-org/react": "^2.2.9",
+      "@types/node": "20.2.5",
+      "@types/react": "18.2.7",
+      "@types/react-dom": "18.2.4",
+      "@upstash/ratelimit": "^0.4.2",
+      "@upstash/redis": "^1.20.6",
+      "clsx": "^1.2.1",
+      "encoding": "^0.1.13",
+      "eslint": "8.41.0",
+      "eslint-config-next": "13.4.4",
+      "eventsource-parser": "^1.0.0",
+      "flowbite-react": "^0.7.2",
+      "formidable": "^2.1.1",
+      "framer-motion": "^10.18.0",
+      "next": "13.4.4",
+      "openai": "^3.2.1",
+      "pdf2json": "^3.0.5",
+      "react": "18.2.0",
+      "react-dom": "18.2.0",
+      "react-filepond": "^7.1.2",
+      "react-player": "^2.15.1",
+      "react-webcam": "^7.0.1",
+      "tailwindcss": "^3.3.2",
+      "typescript": "5.0.4",
+      "typewriter-effect": "^2.21.0",
+      "uuidv4": "^6.2.13"
+    },
+    "devDependencies": {
+      "@tailwindcss/typography": "^0.5.9",
+      "@types/formidable": "^2.0.5",
+      "autoprefixer": "^10.4.14",
+      "postcss": "^8.4.24"
+    }
+  }
